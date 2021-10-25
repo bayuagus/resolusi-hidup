@@ -1,0 +1,3 @@
+target harian
+1. membaca al qur'an 1 juz sehari
+menyelesaikan playlist github dan API
