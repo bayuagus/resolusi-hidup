@@ -1,3 +1,4 @@
 target harian
 1. membaca al qur'an 1 juz sehari
-menyelesaikan playlist github dan API
+2. menyelesaikan playlist github dan API
+3. menyelesaikan dicoding github
